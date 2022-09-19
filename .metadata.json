@@ -1,5 +1,9 @@
 [
   {
+    "package": "dtwclust",
+    "oncran": true
+  },
+  {
     "package": "table.express",
     "oncran": true
   }
