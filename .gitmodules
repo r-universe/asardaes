@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "dtwclust"]
-	path = dtwclust
-	url = https://github.com/asardaes/dtwclust
-	shallow = true
-	registered = true
 [submodule "table.express"]
 	path = table.express
 	url = https://github.com/asardaes/table.express
