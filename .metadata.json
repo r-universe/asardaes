@@ -1,10 +1,10 @@
 [
   {
-    "package": "dtwclust",
+    "package": "table.express",
     "oncran": true
   },
   {
-    "package": "table.express",
+    "package": "dtwclust",
     "oncran": true
   }
 ]
